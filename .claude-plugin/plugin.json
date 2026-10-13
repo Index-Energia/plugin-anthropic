@@ -1,0 +1,21 @@
+{
+  "name": "index-energia",
+  "displayName": "Index Energia",
+  "version": "2.0.0",
+  "description": "Dados e análises do setor elétrico brasileiro com a Index Energia: PLD, mercado, operação do sistema, geração, carga, hidrologia, reservatórios, curtailment, dados CCEE e documentos regulatórios. Skills DEX para briefings, monitoramento e tarefas por agenda ou por evento de publicação de dados.",
+  "author": {
+    "name": "Index Energia",
+    "url": "https://indexenergia.com.br"
+  },
+  "homepage": "https://indexenergia.com.br",
+  "privacyPolicyUrl": "https://indexenergia.com.br/privacy-policy",
+  "termsOfServiceUrl": "https://indexenergia.com.br/terms",
+  "license": "MIT",
+  "keywords": [
+    "energia",
+    "setor eletrico",
+    "pld",
+    "ccee",
+    "ons"
+  ]
+}

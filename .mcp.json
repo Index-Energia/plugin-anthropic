@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "index-energia": {
+      "type": "http",
+      "url": "https://mcp.indexenergia.com.br/mcp"
+    }
+  }
+}

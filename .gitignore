@@ -1,0 +1,3 @@
+# Pacotes gerados localmente para teste: o diretório não inspeciona arquivos compactados
+releases/
+*.zip
